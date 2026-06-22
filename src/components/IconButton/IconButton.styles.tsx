@@ -1,0 +1,1 @@
+export const button = { background: "none", border: "none", cursor: "pointer" }
