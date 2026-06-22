@@ -14,6 +14,8 @@ const iconImports: Record<string, () => Promise<{ default: ComponentType<SvgIcon
     Delete: () => import("@mui/icons-material/Delete"),
     UnfoldLess: () => import("@mui/icons-material/UnfoldLess"),
     UnfoldMore: () => import("@mui/icons-material/UnfoldMore"),
+    Check: () => import("@mui/icons-material/Check"),
+    Edit: () => import("@mui/icons-material/Edit"),
 };
 
 export function LazyIcon({ icon, ...props }: LazyIconProps) {

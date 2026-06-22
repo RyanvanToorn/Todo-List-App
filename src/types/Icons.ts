@@ -1,1 +1,1 @@
-export type Icon = "UnfoldLess" | "UnfoldMore" | "Close" | "Delete" | "Add"
+export type Icon = "UnfoldLess" | "UnfoldMore" | "Close" | "Delete" | "Add" | "Check" | "Edit";
