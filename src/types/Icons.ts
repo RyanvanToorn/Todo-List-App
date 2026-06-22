@@ -1,0 +1,1 @@
+export type Icon = "UnfoldLess" | "UnfoldMore" | "Close" | "Delete" | "Add"
